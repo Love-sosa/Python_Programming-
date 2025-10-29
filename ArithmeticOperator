@@ -1,0 +1,7 @@
+Arithmetic Operators
+friends = 3
+friends = int(input("How many friends do you have?"))
+remainder = friends % 9
+friends **= 3
+fiends += 2
+print(f"you have {remainder:,} friend now")

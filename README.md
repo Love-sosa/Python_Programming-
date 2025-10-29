@@ -1,2 +1,1 @@
-the Python JOURNEY
-
+Python Language readme

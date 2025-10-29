@@ -1,0 +1,11 @@
+Built in Math related functions
+x = int(input("Enter a number: "))
+y = int(input("Enter a number: "))
+z = 30
+
+result = round (x)
+result = abs(x)
+result = pow(x,2)
+result = max(x,y)
+result = min(x,y)
+print(result)
