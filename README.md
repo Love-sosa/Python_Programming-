@@ -1,1 +1,2 @@
-My readme
+the Python JOURNEY
+
