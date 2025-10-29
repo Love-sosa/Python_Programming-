@@ -1,0 +1,7 @@
+#FLOAT
+#price = 12.99
+#GPA = 4.0
+#distance = 6.5
+#print(f"My longest ever running is {distance} miles.")
+#print(f"The package is ${price}")
+#print(f"My {GPA} is very much okay")

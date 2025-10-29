@@ -1,0 +1,17 @@
+#exercise 1 area of rectangle calculation
+#length = input("Enter the length:")
+#width = input("Enter the width:")
+
+#area = float(length) * float(width)
+
+#print(f"The area of the rectangle is: {area}cm")
+
+# exercise 2 shopping cart program
+#item = input("what are you buying:")
+#price = float(input("how much are you buying:"))
+#quantity = int(input("how many would you like:"))
+
+#total_price = price * quantity
+
+#print(f"You have bought {quantity} of {item} at ${total_price}")
+#print(f"the total price is: ${total_price}")

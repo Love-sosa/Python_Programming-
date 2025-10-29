@@ -1,0 +1,22 @@
+#INPUT()
+# = A function that prompts the user to enter data
+#          Returns the entered data as a string.
+
+#name = input("Enter your name: ")
+#age = input("Enter your age: ")
+#location =input("Enter your location: ")
+#Address = input("Enter your Address: ")
+
+#print(f"Hola {name}")
+#print(f"Your age is {age}")
+#print(f"You live in {location}")
+#print(f"your address is {Address}")
+
+#name = input("Tell me your name:")
+#age = int(input("How old are you?"))
+
+#age = age + 2
+
+#print(f"Hello, {name}")
+#print("HAPPY BIRTHDAY!")
+#print(f"You are {age} years old.")

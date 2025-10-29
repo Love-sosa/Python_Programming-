@@ -1,0 +1,19 @@
+#TYPECASTING
+#coverting a variable from one data type to another data type.
+#name = "Sosa"
+#age = 28
+#gpa = 3.14
+#is_student = True
+
+#gpa = int(gpa)
+#print(gpa)
+
+#age = float(age)
+#print(age)
+#age = str(age)
+#age += "1"
+#print(age)
+
+#name = bool(name)
+#print(name)
+#typecasting is useful for handling user input

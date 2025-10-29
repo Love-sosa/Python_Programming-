@@ -1,0 +1,10 @@
+BOOLEAN
+#is_student = True
+#print(f"Are you a student?: {is_student}")
+
+#for_sale = True
+#if for_sale:
+    #print("Item is available for sale")
+#else:
+    #print("Item is not available for sale")
+
