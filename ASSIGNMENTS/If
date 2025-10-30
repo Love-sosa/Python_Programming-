@@ -1,0 +1,17 @@
+#first example
+
+response = input("Would you like to continue (yes/no)? ")
+
+if response == "yes":
+    print("Congratulations!!")
+else:
+print("Goodbye")
+
+#Second example
+
+#name = input("What is your name? ")
+
+#if name == "":
+ #   print("Sorry, your name can't be empty")
+#else:
+#    print(f"Welcome {name}!")
