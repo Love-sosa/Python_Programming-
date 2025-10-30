@@ -1,0 +1,10 @@
+import math
+
+x = float(input("Enter a number: "))
+print(math.pi)
+print(math.e)
+result = math.sqrt(x)
+result = math.ceil(x) (rounds floating point number up)
+result = math.floor(x) (rounds a number down)
+
+print(result)
