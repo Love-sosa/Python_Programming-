@@ -1,5 +1,0 @@
-first_name = "Baffs"
-food = "waakye"
-location = "Odorkor"
-email = "o.baffour@gadltd.com"
-print(first_name, food, email)
