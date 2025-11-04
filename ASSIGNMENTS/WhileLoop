@@ -1,0 +1,7 @@
+food = input("What is your favourite food?(q to quit) ")
+
+while not food == "q":
+    print(f"You like {food}")
+    food = input("What is your favourite food? ")
+
+print("bye")
