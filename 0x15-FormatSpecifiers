@@ -15,13 +15,13 @@
 
 
 #             Example 1 - rounding to a decimal point
-#price1 = 3.14159
-#price2 = -987.65
-#price3 = 12.34
+price1 = 3.14159
+price2 = -987.65
+price3 = 12.34
 
-#print(f"Price1 is ${price1:.2f}")
-#print(f"Price2 is ${price2:.2f}")
-#print(f"Price3 is ${price3:.2f}")
+print(f"Price1 is ${price1:.2f}")
+print(f"Price2 is ${price2:.2f}")
+print(f"Price3 is ${price3:.2f}")
 
 
 #     example 2- allocating spaces
@@ -33,5 +33,14 @@
 #print(f"Price2 is ${price2:60}")
 #print(f"Price3 is ${price3:20}")
 
+
+#Example 3 
+price1 = 3.14159
+price2 = -987.65
+price3 = 1200000000.3488
+
+print(f"Price1 is ${price1:^30}")
+print(f"Price2 is ${price2:010}")
+print(f"Price3 is ${price3:+,.2f}")
 
 
