@@ -1,0 +1,34 @@
+# xxx Collection = single "variable" used to store a multiple values"
+#          List = [] ordered and changeable. Duplicates are Ok
+#          Set  = {} unordered and immutable, but Add/Remove OK. No duplicates
+#         Tuple = () ordered and unchangeable. Duplicates OK . FASTER
+
+
+Fruits = ["Mango", "Banana", "Cherry", "Pineapple", "Apple", "Pineapple"]
+
+# xxx list xxx
+
+#print(help(Fruits)) for methods xxx
+#print(len(Fruits))
+#print(dir(Fruits))
+
+#print("Cherry" in Fruits) # in operator finds a value within a collection
+
+#example 2
+#change the value in a string
+
+#Fruits[2] = "Coconut"
+#for fruit in Fruits:
+#    print(fruit)
+
+
+#example 3 - using methods found within a list
+#Fruits.append("Orange")
+#Fruits.remove("Banana")
+#Fruits.insert(3, "Orange")
+#Fruits.sort()
+#Fruits.reverse()
+#print(Fruits.index("Apple"))
+#print(Fruits.count("Pineapple"))
+
+#print(Fruits)
