@@ -6,7 +6,7 @@
 
 Fruits = ["Mango", "Banana", "Cherry", "Pineapple", "Apple", "Pineapple"]
 
-# xxx list xxx
+#                        xxx list xxx
 
 #print(help(Fruits)) for methods xxx
 #print(len(Fruits))
@@ -32,3 +32,38 @@ Fruits = ["Mango", "Banana", "Cherry", "Pineapple", "Apple", "Pineapple"]
 #print(Fruits.count("Pineapple"))
 
 #print(Fruits)
+
+
+
+
+
+#                       xxx SET xxx
+#
+#Fruits = {"Mango", "Banana", "Cherry", "Pineapple", "Apple"}
+
+#print(help(Fruits))
+
+#Fruits.remove("Pineapple")
+#Fruits.add("Coconut")
+#Fruits.pop()
+#Fruits.clear()
+#Fruits.update({"Coconut"})
+
+#print(Fruits)
+
+
+
+#                                    xxx TUPLE xxx
+
+Fruits = ("Mango", "Banana", "Cherry", "Pineapple", "Apple", "Banana")
+
+#print(dir(Fruits))
+#print(help(Fruits))
+
+#print(len(Fruits))
+#print("Coconut" in Fruits)
+#print(Fruits.index("Pineapple"))
+#print(Fruits.count("Banana"))
+
+#for fruits in Fruits:
+#    print(fruits, end=" ")
