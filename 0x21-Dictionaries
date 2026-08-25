@@ -1,0 +1,47 @@
+# xxx      Dictionaries xxx
+# dictionary = a collection of {key:value} pairs
+#             ordered and changeable. No duplicates
+
+#capitals = {"USA": "Washington DC",
+#            "India": "New Delhi",
+#            "Ghana": "Accra"}
+#print(capitals.get("Ghana"))
+#print(capitals.get("India"))
+
+# print(dir(capital))
+# print(help(capital))
+
+#if capitals.get("Ghana"):
+#    print("That capital exists")
+#else:
+#    print("That capital doesn't exist")
+
+#capitals.update({"Nigeria":"Lagos"})
+#capitals.pop("Ghana")
+#capitals.popitem() - - removes latest value inserted
+#capitals.clear()
+#print(capitals)
+
+# xxx getting all keys in a dictionary xxx
+#keys = capitals.keys()
+
+#for key in capitals.keys():
+#    print(key, end=" ")
+
+
+# xxx getting all values in a dictionary xxx
+#values = capitals.values()
+#print(values)
+
+#for value in capitals.values():
+#    print(value)
+
+# xxx getting the key and value xxx
+
+#items = capitals.items()
+#print(items)
+
+#for key, value in items:
+#    print(f"{key}: {value}")
+
+
